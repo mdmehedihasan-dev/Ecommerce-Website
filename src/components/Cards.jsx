@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { Link } from "react-router-dom"
 
 // eslint-disable-next-line react/prop-types
